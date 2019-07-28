@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    padding-left: 5%
+}
+.containerElements{
+    align-content: center;
+    margin: 1%;
+    padding: 1%;
+    border: 2px solid	rgb(220,220,220);
+
+}
+.containerTextField{
+    margin: 5%  !important
+}
